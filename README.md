@@ -7,10 +7,10 @@ In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
 ## Screenshots
-**Main Activity screenshot**
-![Main Activity screenshot showing the list of sandwiches and the app UI](screenshots/activity_main.png)
-**Detail Activity screenshot**
-![Detail Activity screenshot showing the sandwich detail and the customized UI](screenshots/activity_detail.png)
+**Main Activity screenshot**  
+![Main Activity screenshot showing the list of sandwiches and the app UI](screenshots/activity_main.png)  
+**Detail Activity screenshot**  
+![Detail Activity screenshot showing the sandwich detail and the customized UI](screenshots/activity_detail.png)  
 
 ## Why this Project
 
