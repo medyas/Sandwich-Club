@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This app is aprt of the Android Developer Nanodegree track in Udacity.
+This app is aprt of the Android Developer Nanodegree track in Udacity.  
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
