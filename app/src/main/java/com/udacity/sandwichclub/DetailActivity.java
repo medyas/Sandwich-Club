@@ -70,22 +70,6 @@ public class DetailActivity extends AppCompatActivity {
         origin = (TextView) findViewById(R.id.origin_tv);
         ingredientsIv = (ImageView) findViewById(R.id.image_iv);
 
-        Target target = new Target() {
-            @Override
-            public void onBitmapLoaded(Bitmap bitmap, Picasso.LoadedFrom from) {
-            }
-
-            @Override
-            public void onBitmapFailed(Drawable errorDrawable) {
-
-            }
-
-            @Override
-            public void onPrepareLoad(Drawable placeHolderDrawable) {
-
-            }
-        };
-
         Intent intent = getIntent();
         if (intent == null) {
             closeOnError();
