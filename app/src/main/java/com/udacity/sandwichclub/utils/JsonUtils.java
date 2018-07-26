@@ -27,7 +27,7 @@ public class JsonUtils {
                 }
             }
             else {
-                knownAs.add("No Thing To Display!");
+                knownAs.add("");
             }
             sandwich.setAlsoKnownAs(knownAs);
             sandwich.setPlaceOfOrigin(obj.getString("placeOfOrigin"));
@@ -39,7 +39,7 @@ public class JsonUtils {
                 }
             }
             else {
-                ingred.add("No Thing To Display!");
+                ingred.add("");
             }
 
             sandwich.setIngredients(ingred);

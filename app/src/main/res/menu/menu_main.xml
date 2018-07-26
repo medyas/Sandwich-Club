@@ -14,6 +14,11 @@
         android:icon="@drawable/ic_sort_by_alpha_black_24dp"
         app:showAsAction="ifRoom"/>
 
+    <item android:title="@string/reset"
+        android:id="@+id/app_bar_reset"
+        android:icon="@drawable/ic_settings_backup_restore_black_24dp"
+        app:showAsAction="never"/>
+
     <item android:title="@string/settings"
         android:id="@+id/app_bar_settings"
         android:icon="@drawable/ic_settings_black_24dp"
