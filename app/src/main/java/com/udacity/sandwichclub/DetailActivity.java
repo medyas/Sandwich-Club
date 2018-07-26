@@ -186,6 +186,7 @@ public class DetailActivity extends AppCompatActivity {
 
     /**
      * requestPermissions and do something
+     *  solution obtained from https://stackoverflow.com/a/47735380/8738574
      *
      */
     public void requestRead() {
